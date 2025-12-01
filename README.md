@@ -25,6 +25,15 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
+---
+
+## 🚀 Connect with me!
+
+Wanna talk about code, anime, or gaming?
+<a href="https://www.linkedin.com/in/vincenzo-tulimieri-79a798299/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BXqd9PYULQr2KYbhdlhv9Rw%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
 
