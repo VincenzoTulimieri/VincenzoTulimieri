@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Connect with me!
+## 📫 Connect with me!
 
 Wanna talk about code, anime, or gaming?<br>
 <a href="https://www.linkedin.com/in/vincenzo-tulimieri-79a798299/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BXqd9PYULQr2KYbhdlhv9Rw%3D%3D" target="_blank">
