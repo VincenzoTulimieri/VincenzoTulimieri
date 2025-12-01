@@ -1,5 +1,5 @@
-# Hi👋 I'm Vincenzo Tulimieri
-## <p>💻 Full Stack Web Developer</p>
+# <p align="Center"> alin Hi👋 I'm Vincenzo Tulimieri</p>
+## <p align="Center">💻 Full Stack Web Developer</p>
 
 ## about me
 
@@ -7,7 +7,7 @@
 
 
 ## My Skills 💪🏻
-<p align="left">
+<p align="Center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
