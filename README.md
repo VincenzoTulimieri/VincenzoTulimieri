@@ -1,12 +1,14 @@
 # <p align="Center">Hi👋 I'm Vincenzo Tulimieri</p>
 ## <p align="Center">💻 Full Stack Web Developer</p>
 
-## about me
+## 👨🏻‍💻 About me 
+* 🌍 Based in Rome, Italy
+* 👨🏻‍🎓 Completed an intensive Full Stack Web Development course at Boolean
+* ⚛️ Specialized in React
+* 🌟 My Hobbies: Anime & Manga 🍥, Gaming 🎮
+,,,
 
-
-
-
-## My Skills 💪🏻
+## 🛠️ My Skills
 <p align="Center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
