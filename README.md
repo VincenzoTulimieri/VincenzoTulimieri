@@ -1,7 +1,5 @@
 # <p align="Center">Hi👋 I'm Vincenzo Tulimieri</p>
-<p align="Center">💻 Full Stack Web Developer</p>
-
----
+## <p align="Center">💻 Full Stack Web Developer</p>
 
 ## 👨🏻‍💻 About me 
 * 🌍 Based in Rome, Italy
